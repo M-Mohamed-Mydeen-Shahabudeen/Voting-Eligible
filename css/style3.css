@@ -1,0 +1,25 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    text-align: center;
+}
+#check
+{
+   text-align: center; 
+   width: 300px;
+   height: 25px;
+   border-radius: 13px;
+   border: solid red;
+
+}
+#result
+{
+color: green;
+}
+.e
+{
+color: red;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: bold;
+}
